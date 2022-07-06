@@ -304,7 +304,7 @@ body {
 
 .filters li a {
 	color: inherit;
-	margin: 3px;
+	/* margin: 3px; */
 	padding: 3px 7px;
 	text-decoration: none;
 	border: 1px solid transparent;
@@ -326,6 +326,8 @@ html .clear-completed:active {
 	line-height: 20px;
 	text-decoration: none;
 	cursor: pointer;
+	margin-left: 5px;
+	
 }
 
 .clear-completed:hover {
